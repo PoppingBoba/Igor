@@ -1698,3 +1698,8 @@ include "dev/acpi/acpica/files.acpica"
 # Name value library
 #
 include "external/bsd/libnv/conf/files.libnv"
+
+#
+# Igor Specific
+#
+include "dev/igor/files.igor"

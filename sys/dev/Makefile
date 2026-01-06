@@ -29,4 +29,7 @@ INCS+=	md.h
 INCS+=	spkrio.h
 INCS+=	vndvar.h
 
+# Project Igor Specific Directory
+SUBDIR+= igor
+
 .include <bsd.kinc.mk>

@@ -108,3 +108,4 @@ device-major	xencons		char 143		xencons
 # Majors up to 143 are reserved for machine-dependent drivers.
 # New machine-independent driver majors are assigned in
 # sys/conf/majors.
+device-major    igor    char    144 igor

@@ -19,6 +19,4 @@ SUBDIR+=modules
 SUBDIR+= rump
 .endif
 
-SUBDIR+= igor
-
 .include <bsd.kinc.mk>
